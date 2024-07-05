@@ -13,10 +13,10 @@ To gain employment as a Security Operations Center - SOC analyst by showing my s
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Automation with Tines SOAR          | <a href="https://github.com/Paragonixx/SOAR-EDR">SOAR EDR</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Comprehensive Security Analysis | Vulnerability Management Lab|
+| Anamoly Detection & Malware Analysis      | PCAP Investigation Lab|
+| Network Security Principles                  | Firewall Configuration Lab|
+| Scripting and Automation for Threat Mitigation | Active Directory Lab|
 
 
 ## Tools
@@ -55,6 +55,6 @@ To gain employment as a Security Operations Center - SOC analyst by showing my s
 
 ## Projects
 - Detection Lab
-- SOAR EDR
+- <a href="https://github.com/Paragonixx/SOAR-EDR">SOAR EDR</a>
 - Nessus Vulnerability Management
 - Active Directory Project
