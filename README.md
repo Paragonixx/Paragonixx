@@ -56,4 +56,6 @@ To gain employment as a Security Operations Center - SOC analyst by showing my s
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+- SOAR EDR
+- Nessus Vulnerability Management
+- Active Directory Project
