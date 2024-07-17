@@ -56,4 +56,4 @@ To gain employment as a Security Operations Center - SOC analyst by showing my s
 - <a href="https://github.com/Paragonixx/SOAR-EDR">SOAR EDR</a>
 - Nessus Vulnerability Management
 - Active Directory Project
-- Firewall Configuration Lab
+- <a href=https://github.com/Paragonixx/Active-Directory-Lab>Active Directory Lab</a>
