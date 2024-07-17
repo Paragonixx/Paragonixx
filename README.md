@@ -15,7 +15,7 @@ To gain employment as a Security Operations Center - SOC analyst by showing my s
 | Security Automation with Tines SOAR          | <a href="https://github.com/Paragonixx/SOAR-EDR">SOAR EDR</a>|
 | Comprehensive Security Analysis | <a href=https://github.com/Paragonixx/Nessus-Vulnerability-Management>Nessus Vulnerability Management</a>|
 | Scripting and Automation for Threat Mitigation | <a href=https://github.com/Paragonixx/Active-Directory-Lab>Active Directory Lab</a>|
-| Network Security Principles                  | Firewall Configuration Lab|
+| Network Security Principles                  | <a href=https://github.com/Paragonixx/Firewall-Configuration-Lab>Firewall Configuration Lab</a>
 
 
 
@@ -56,3 +56,4 @@ To gain employment as a Security Operations Center - SOC analyst by showing my s
 - <a href="https://github.com/Paragonixx/SOAR-EDR">SOAR EDR</a>
 - <a href=https://github.com/Paragonixx/Nessus-Vulnerability-Management>Nessus Vulnerability Management</a>
 - <a href=https://github.com/Paragonixx/Active-Directory-Lab>Active Directory Lab</a>
+- <a href=https://github.com/Paragonixx/Firewall-Configuration-Lab>Firewall Configuration Lab</a>
