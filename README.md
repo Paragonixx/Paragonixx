@@ -54,5 +54,5 @@ To gain employment as a Security Operations Center - SOC analyst by showing my s
 
 ## Projects
 - <a href="https://github.com/Paragonixx/SOAR-EDR">SOAR EDR</a>
-- <a href=https://github.com/Paragonixx/Nessus-Vulnerability-Management>Nessus Vulnerability Management</a>- Active Directory Project
+- <a href=https://github.com/Paragonixx/Nessus-Vulnerability-Management>Nessus Vulnerability Management</a>
 - <a href=https://github.com/Paragonixx/Active-Directory-Lab>Active Directory Lab</a>
