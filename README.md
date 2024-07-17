@@ -13,10 +13,11 @@ To gain employment as a Security Operations Center - SOC analyst by showing my s
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Automation with Tines SOAR          | <a href="https://github.com/Paragonixx/SOAR-EDR">SOAR EDR</a>|
-| Comprehensive Security Analysis | Vulnerability Management Lab|
+| Comprehensive Security Analysis | Nessus Vulnerability Management|
+| Scripting and Automation for Threat Mitigation | Active Directory Lab|
 | Anamoly Detection & Malware Analysis      | PCAP Investigation Lab|
 | Network Security Principles                  | Firewall Configuration Lab|
-| Scripting and Automation for Threat Mitigation | Active Directory Lab|
+
 
 
 ## Tools
