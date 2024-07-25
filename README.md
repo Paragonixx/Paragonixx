@@ -3,6 +3,7 @@
 
 
 After thirteen years of being a massage therapist, I am making a career tranisition into Cybersecurity. 
+Below is a list of the projects I've been working on. I will be adding the screenshots to my projects this week!
 
 ## Objective
 
